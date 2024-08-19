@@ -2,7 +2,7 @@
 
 This is a platform game built with HTML CSS and Javascript, using P5 as the game engine.
 
-It features sounds, socring, lives, and three unique levels with custom sprites.
+It features sounds, scoring, lives, and three unique levels with custom sprites.
 
 Demo:
 
